@@ -1,4 +1,5 @@
 # Firefly-III Personal Finance 
+<img src="https://www.svgrepo.com/show/331392/firefly-iii.svg" width="200px"><img src="https://www.seidengroup.com/wp-content/uploads/2020/12/mariadb-logo.png" width="250px"><BR>
 Working docker-compose for Firefly as well as MariaDB for it's back-end.
 
 # Installation Notes:
